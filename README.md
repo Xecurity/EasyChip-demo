@@ -1,2 +1,0 @@
-easychip-demo-site
-==================
